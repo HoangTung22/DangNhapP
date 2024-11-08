@@ -1,0 +1,15 @@
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\bin\Debug\Database1.mdf
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\bin\Debug\Database1_log.ldf
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\bin\Debug\dangnhap.exe.config
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\bin\Debug\dangnhap.exe
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\bin\Debug\dangnhap.pdb
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\obj\Debug\dangnhap.csproj.AssemblyReference.cache
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\obj\Debug\dangnhap.DangKy.resources
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\obj\Debug\dangnhap.DangNhap.resources
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\obj\Debug\dangnhap.Home.resources
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\obj\Debug\dangnhap.Properties.Resources.resources
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\obj\Debug\dangnhap.QuenMatKhau.resources
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\obj\Debug\dangnhap.csproj.GenerateResource.cache
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\obj\Debug\dangnhap.csproj.CoreCompileInputs.cache
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\obj\Debug\dangnhap.exe
+C:\Users\TRINH HOANG TUNG\source\repos\dangnhap\obj\Debug\dangnhap.pdb
